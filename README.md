@@ -6,7 +6,7 @@
 
 ---
 
-### **Desarrollo de Aplicaciones Móviles**
+### **Desarrollo de Aplicaciones Móviles Nativas**
 **Semestre 2026-1**
 
 <br/>
