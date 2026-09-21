@@ -7,7 +7,7 @@
 ---
 
 ### **Desarrollo de Aplicaciones Móviles Nativas**
-**Semestre 2026-1**
+**Semestre 2027-1**
 
 <br/>
 
@@ -20,7 +20,7 @@
 | :--- | :--- |
 | **Alumno:** | Aragón Martínez Manuel Alejandro |
 | **Boleta:** | 2023630411 |
-| **Grupo:** | 7CV2 |
+| **Grupo:** | 7CV4 |
 | **Profesor:** | Hurtado Avilés Gabriel |
 | **Fecha:** | Septiembre 2026 |
 
