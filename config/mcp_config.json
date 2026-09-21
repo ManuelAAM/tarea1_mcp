@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "filesystem": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "C:\\Users\\osito\\OneDrive\\Documentos\\Desarrollo Apps Moviles\\Tarea 1\\tarea1_mcp"
+      ]
+    }
+  }
+}
