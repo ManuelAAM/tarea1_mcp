@@ -2,7 +2,7 @@
 
 # INSTITUTO POLITÉCNICO NACIONAL
 ### ESCUELA SUPERIOR DE CÓMPUTO
-**Subdirección Académica — Departamento de Ingeniería en Sistemas Computacionales**
+**Ingeniería en Sistemas Computacionales**
 
 ---
 
